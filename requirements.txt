@@ -1,0 +1,10 @@
+aiodns==2.0.0
+cffi==1.14.0
+dnspython==1.16.0
+loguru==0.4.1
+pexpect==4.8.0
+ptyprocess==0.6.0
+pycares==3.1.1
+pycparser==2.19
+pymongo==3.10.1
+boto3==1.12.12
