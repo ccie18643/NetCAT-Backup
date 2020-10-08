@@ -1,4 +1,4 @@
-# NetCAT Backup
+# NetCAT Backup - Network Configuration Automation Tool
 
 Set of Python programs used to backup configurations, poll command output status, deploy config snippets and perform automatic software upgrades on Cisco, PaloAlto and F5 devices. Results can be saved into either local/remote MongoDB database, AWS DynamoDB or Azure CosmosDB. Multiprocessing is implemented to work on multiple devices in parallel.
 
