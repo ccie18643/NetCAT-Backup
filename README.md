@@ -19,7 +19,7 @@ simultanously to multiple devices in a very short time.
 
 ### Sample log showing software being upgraded on HA pair of PaloAlto firewalls
 Second firewall reboot process waits till the primary one boots up after reboot so at leas one
-of them is operational at a time
+of them is operational at a time. This process obviously can be started for multiple evices in parallel.
 ![Sample inventory screenshot](https://github.com/ccie18643/NetCAT-Backup/blob/master/pictures/upg_01.png)
 ![Sample inventory screenshot](https://github.com/ccie18643/NetCAT-Backup/blob/master/pictures/upg_02.png)
 ![Sample inventory screenshot](https://github.com/ccie18643/NetCAT-Backup/blob/master/pictures/upg_03.png)
