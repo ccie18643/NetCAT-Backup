@@ -15,3 +15,12 @@ simultanously to multiple devices in a very short time.
 ![Sample inventory screenshot](https://github.com/ccie18643/NetCAT-Backup/blob/master/pictures/dep_01.png)
 ![Sample inventory screenshot](https://github.com/ccie18643/NetCAT-Backup/blob/master/pictures/dep_02.png)
 
+
+
+### Sample log showing software being upgraded on HA pair of PaloAlto firewalls
+Second firewall reboot process waits till the primary one boots up after reboot so at leas one
+of them is operational at a time
+![Sample inventory screenshot](https://github.com/ccie18643/NetCAT-Backup/blob/master/pictures/upg_01.png)
+![Sample inventory screenshot](https://github.com/ccie18643/NetCAT-Backup/blob/master/pictures/upg_02.png)
+![Sample inventory screenshot](https://github.com/ccie18643/NetCAT-Backup/blob/master/pictures/upg_03.png)
+![Sample inventory screenshot](https://github.com/ccie18643/NetCAT-Backup/blob/master/pictures/upg_01.png)
