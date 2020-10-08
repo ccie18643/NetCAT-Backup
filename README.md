@@ -10,8 +10,8 @@ Set of Python programs used to backup configurations, poll command output status
 
 
 ### Sample log from configuraton snippet being deployed on PaloAlto firewall
-Those configuration snippets can have hundreds or even thousands lines and they can be deployed simultanously
-to multiple devices in a very short time.
-![Sample inventory screenshot](https://github.com/ccie18643/NetCAT-Backup/blob/master/pictures/dep_01.jpg)
+Those configuration snippets can have hundreds or even thousands lines and they can be deployed
+simultanously to multiple devices in a very short time.
+![Sample inventory screenshot](https://github.com/ccie18643/NetCAT-Backup/blob/master/pictures/dep_01.png)
 ![Sample inventory screenshot](https://github.com/ccie18643/NetCAT-Backup/blob/master/pictures/dep_02.png)
 
