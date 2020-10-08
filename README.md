@@ -23,4 +23,4 @@ of them is operational at a time
 ![Sample inventory screenshot](https://github.com/ccie18643/NetCAT-Backup/blob/master/pictures/upg_01.png)
 ![Sample inventory screenshot](https://github.com/ccie18643/NetCAT-Backup/blob/master/pictures/upg_02.png)
 ![Sample inventory screenshot](https://github.com/ccie18643/NetCAT-Backup/blob/master/pictures/upg_03.png)
-![Sample inventory screenshot](https://github.com/ccie18643/NetCAT-Backup/blob/master/pictures/upg_01.png)
+![Sample inventory screenshot](https://github.com/ccie18643/NetCAT-Backup/blob/master/pictures/upg_04.png)
