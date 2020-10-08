@@ -213,7 +213,7 @@ def main() -> int:
     arguments = parse_arguments()
     netcat.SINGLE_PROCESS_MODE = arguments.single_process
 
-    print("\nNetCat Deploy, ver 5.5 - 2020, Sebastian Majewski\n")
+    print("\nNetCAT Deploy, ver 5.5 - 2020, Sebastian Majewski\n")
 
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S EDT")
 

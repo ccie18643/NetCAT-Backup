@@ -54,7 +54,7 @@ def main() -> int:
     # Setup logger
     netcat.setup_logger("netcat_make_device_info_list")
 
-    print("\nNetCat Make Device Info List, ver 5.5 - 2020, Sebastian Majewski\n")
+    print("\nNetCAT Make Device Info List, ver 5.5 - 2020, Sebastian Majewski\n")
 
     # Get localhost hostname
     local_hostname = socket.gethostname()

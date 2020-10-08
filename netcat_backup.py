@@ -208,7 +208,7 @@ def main() -> int:
     arguments = parse_arguments()
     netcat.SINGLE_PROCESS_MODE = arguments.single_process
 
-    print("\nNetCat Backup, ver 5.5 - 2020, Sebastian Majewski\n")
+    print("\nNetCAT Backup, ver 5.5 - 2020, Sebastian Majewski\n")
 
     # Setup logger
     netcat.setup_logger("netcat_backup", debug=arguments.debug)

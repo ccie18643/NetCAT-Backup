@@ -99,7 +99,7 @@ async def main() -> int:
 
     arguments = parse_arguments()
 
-    print("\nNetCat DNS Check, ver 5.5 - 2020, Sebastian Majewski\n")
+    print("\nNetCAT DNS Check, ver 5.5 - 2020, Sebastian Majewski\n")
 
     # Setup logger
     netcat.setup_logger("netcat_dnscheck", process_name_length=15, debug=arguments.debug)

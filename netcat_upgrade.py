@@ -93,7 +93,7 @@ def main() -> int:
     arguments = parse_arguments()
     netcat.SINGLE_PROCESS_MODE = arguments.single_process
 
-    print("\nNetCat Upgrade, ver 5.5 - 2020, Sebastian Majewski\n")
+    print("\nNetCAT Upgrade, ver 5.5 - 2020, Sebastian Majewski\n")
 
     # Setup logger
     netcat.setup_logger("netcat_upgrade", debug=arguments.debug)
