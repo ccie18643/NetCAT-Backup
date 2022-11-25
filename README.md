@@ -1,6 +1,7 @@
 # NetCAT Backup
 
 ### Network automation tool
+<br>
 
 NetCAT stands for Network Configuration Automation Tool. The set of Python programs can be used to backup configurations, poll command output status, deploy config snippets, and perform automatic software upgrades on Cisco, Palo Alto, and F5 devices. Results can be saved into either local/remote MongoDB database, AWS DynamoDB or Azure CosmosDB. Multiprocessing is implemented to work on multiple devices in parallel. Other brands of devices can be added easily as just another CLI modules.
 
